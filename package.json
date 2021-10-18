@@ -1,5 +1,7 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
+  "name":"micro-front-movement-controller",
+  "version":"1.0.0",
+  "main": "App.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -17,6 +19,5 @@
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
-  },
-  "private": true
+  }
 }
